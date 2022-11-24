@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316456362359",
+    "project_id": "find-your-job-23e41",
+    "storage_bucket": "find-your-job-23e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316456362359:android:c696d39292df4cf0bfc172",
+        "android_client_info": {
+          "package_name": "com.divandaf.find_your_job"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316456362359-5ons4g33lmmg1uvdumku472f8q121mk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEh9XjPcK8F1k09EWN8y9zl44o02BkH4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316456362359-5ons4g33lmmg1uvdumku472f8q121mk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
